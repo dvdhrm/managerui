@@ -1,0 +1,14 @@
+= Convenient UI for minimal Desktop Environment =
+  TODO
+
+= Install =
+  compilation: make
+  clean: make clean
+  install: make install (this installs into /usr/bin)
+  uninstall: make uninstall (this removes /usr/bin/managerui)
+
+= License =
+  This program and the related documentation is dedicated to the Public Domain.
+
+= Author =
+  David Herrmann - dh.herrmann@googlemail.com
